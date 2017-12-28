@@ -1,0 +1,8 @@
+Requirements
+
+#End-to-end testing
+
+- selenium fire up a browser
+- webdriverIO controls it
+- chai for assertions
+
